@@ -1,4 +1,6 @@
 # 📊 Proyecto Segmentación de Clientes
+Base de datos: https://docs.google.com/spreadsheets/d/1mKd5SXFE2AqNMw-0jYCB-gCG_ex_HB3Uy98D1DbnsD0/edit?usp=sharing
+Dashboard: https://lookerstudio.google.com/reporting/f5ff376b-8b89-4d78-b617-3eb8ba2a5d26
 
 ## Objetivo
 Analizar la base de clientes y ventas para identificar patrones de comportamiento y segmentar a los clientes mediante el modelo RFM (Recencia, Frecuencia y Valor). El fin es apoyar decisiones comerciales, priorización de clientes y estrategias de retención.
